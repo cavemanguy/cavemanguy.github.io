@@ -1,2 +1,0 @@
-# cavemanguy.github.io
-Resume
