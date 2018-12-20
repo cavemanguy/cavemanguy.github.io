@@ -1,19 +1,19 @@
 # Site
-repository: sproogen/resume-theme
+# repository: sproogen/resume-theme
 # favicon: images/favicon.ico
 
 # Admin and Beyond
-Name: Zack Daniels
-What do you do: Senior Network System Administrator
-Email: nullfacesecurity@protonmail.com
-website: cavemanguy.github.io
-## About me
-about_profile_image: profile.jpg
-about_content: | # this will include new lines to allow paragraphs  
+# Name: Zack Daniels
+# What do you do: Senior Network System Administrator
+# Email: nullfacesecurity@protonmail.com
+# website: cavemanguy.github.io
+# About me
+# about_profile_image: profile.jpg
+# about_content: | # this will include new lines to allow paragraphs  
 ## Hi, my name's Zack And I'm a self taught Developer/Administrator. | As well as administrating local machines in Windows or Linux. I also have experience spinning up servers with AWS. I'm looking for a certain niche that will allow me to utilize all of my strengths. I'm a strong believer in that the only limits we have are the one we place on ourselves.* ### I do enjoy writing for fun also.The Year 2020 and its still just packets going back and fourth. I have a heavy interest in security and I do enjoy finding bugs in some of the biggest names of the internet. Nmap will always have a special place in my heart but I don't enjoy convincing people that bugs are worth fixing and I'd rather just watch it all play out on the news. Its not that im OK with insecure buggy software it's just that security is always an afterthought and i'm not sure that society really even cares.
- It has come to my attention that until the majority of the population is directly affected by a security vulnerability they just wont care. Until they are targeted by someone directly they will fail to see the potential implications that come with vulnerable code. And when people demand accountability for whatever damage they have incurred they will only be awarded empty apologies from our leaders.
+# It has come to my attention that until the majority of the population is directly affected by a security vulnerability they just wont care. Until they are targeted by someone directly they will fail to see the potential implications that come with vulnerable code. And when people demand accountability for whatever damage they have incurred they will only be awarded empty apologies from our leaders.
 ## I would say that the internet is held together by bubble gum and duct tape.**  It's no surprise that something that grew exponentially so quickly has some really deep problems. But governments and consumers in tangent with ever-more demanding services have urged programmers to make the internet grow up before it was ready.
- **and its still just packets going back and fourth.**
+# **and its still just packets going back and fourth.**
 ## But this is a resume after-all *Besides learning IT for fun and profit I have made a living in the  **HVAC** industry as a troubleshooter. I can replace compressors on industrial chillers or pull a vacuum on a simple residential system and test it for leaks. I can figure out why that chilled water line isn't getting quite cool enough because a neglected filter with restricted flow is bottle necking the entire system. I can also bypass DDC and manually offset a thermostat to verify that it's working correctly. Is that lazy? I've also pulled long hours in paper mills and refineries and started from the bottom as a helper and worked through the ranks to journeyman. I'm a spatial thinker with insight.
 ## What do I want? I want to tackle problems that nobody else can figure out.Currently I am devoting much of my time learning AWS because of the convenience and scope of the services they offer. I don't know everything about anything and I can't imagine anyone does. I love honesty and transparency in employers and co-workers. I love working with talented people with a passion for their craft and If I don't know the answer I won't pretend to but I will work hard to find a solution with whatever resources is available.
 ## On a <mark>Keyboard</mark> I am most skilled in: <mark>Administration</mark> and <mark>Research</mark> 
@@ -38,16 +38,16 @@ about_content: | # this will include new lines to allow paragraphs
 
 # More Section
 # more_title: A Little More About Me
-more_content: | # this will include new lines to allow paragraphs
+# more_content: | # this will include new lines to allow paragraphs
   
-  Alongside my interests in Operating systems and servers and Industrial systems some of my other interests and hobbies are:
-   - Song-writing
-   - Science Fiction
-   - Painting
-   - Laughing
-   - Fixing things
-   - Being a dad
-# Footer
+#  Alongside my interests in Operating systems and servers and Industrial systems some of my other interests and hobbies are:
+#   - Song-writing
+#   - Science Fiction
+#   - Painting
+#   - Laughing
+#   - Fixing things
+#   - Being a dad
+Footer
 footer_show_references: true
 
 # Build settings
